@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter with OpenAI",
+      "request": "launch",
+      "type": "dart",
+      "toolArgs": [
+        "--dart-define",
+        "OPENAI_API_KEY=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"
+      ]
+    }
+  ]
+}
